@@ -1,7 +1,11 @@
 # Favorite Things
 
 These are a few of my favorite things:
+<<<<<<< HEAD
 - Flower(roses)
+=======
+- adding something new in experiment
+>>>>>>> experiment
 - Raindrops on roses
 - Whiskers on kittens
 - Bright copper kettles
